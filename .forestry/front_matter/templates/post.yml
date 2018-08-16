@@ -39,3 +39,6 @@ fields:
   type: text
   hidden: true
   default: post
+- type: textarea
+  name: aa
+  label: aa
