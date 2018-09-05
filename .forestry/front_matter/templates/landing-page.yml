@@ -79,5 +79,25 @@ fields:
   type: text
   hidden: true
   default: home
+- type: text
+- type: textarea
+- type: number
+- type: boolean
+- type: select
+  config:
+    source:
+      type: datafiles
+- type: datetime
+- type: color
+  config:
+    color_format: Hex
+- type: tag_list
+- type: list
+- type: file
+- type: image_gallery
+- type: field_group
+- type: field_group_list
+- type: blocks
+- type: include
 pages:
 - index.md
