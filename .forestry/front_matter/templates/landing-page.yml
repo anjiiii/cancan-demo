@@ -83,6 +83,10 @@ fields:
 - type: textarea
 - type: number
 - type: boolean
+  label: zxffffgdfgdfgdfgdfgf
+  name: zxffffgdfgdfgdfgdfgf
+  description: xfdfgdfgdfgdfgdfgdfgdfg
+  hidden: false
 - type: select
   config:
     source:
